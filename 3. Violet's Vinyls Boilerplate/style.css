@@ -1,0 +1,52 @@
+body {
+  background-color: #000;
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: white;
+}
+header {
+  background-image: url(img/Records.jpg);
+  background-repeat: no-repeat;
+  background-size:29em;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.hTwosGeneral {
+  font-style: 25px;
+  background-color: #ef8354; 
+  font-weight: bold;
+  text-align: center;
+}
+
+.img {
+  width: 500px;
+}
+
+
+.text {
+ font-style: 16px;
+}
+
+.saleBold {
+  font-weight: bold;
+}
+
+#hTwoTurqoiseSpec {
+  background-color: #0e7c7b;
+}
+#hTwoPurpleSpec {
+  background-color: #9c538b;
+}
+
+a:hover {
+  color: #9c528b;
+}
+.facebookLink {
+  color: #ef8354;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+}
